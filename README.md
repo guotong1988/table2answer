@@ -12,9 +12,19 @@ tensorflow >= 1.12.0
 
 # Train
 
-Step 1. download the pre-trained model at https://github.com/google-research/bert and unzip them to `uncased_L-12_H-768_A-12`
+### Step 1. 
 
-Step 2. use `make_data` to create the data.
+Download the pre-trained model at https://github.com/google-research/bert and unzip them to `uncased_L-12_H-768_A-12`
 
-Step 3. `matrix_code/train.py`
+### Step 2.
+
+Download the v1.1 squad data at https://github.com/rajpurkar/SQuAD-explorer/tree/master/dataset
+
+### Step 3. 
+
+use `make_data` to create the data.
+
+### Step 4. 
+
+`matrix_code/train.py`
 
