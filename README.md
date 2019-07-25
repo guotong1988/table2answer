@@ -28,3 +28,12 @@ use `make_data` to create the data.
 
 `matrix_code/train.py`
 
+# BibTeX
+```
+@article{guo2019table2answer,
+  title={Table2answer: Read the database and answer without SQL},
+  author={Guo, Tong and Gao, Huilin},
+  journal={arXiv preprint arXiv:1902.04260},
+  year={2019}
+}
+```
