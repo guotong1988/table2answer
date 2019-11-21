@@ -1,5 +1,7 @@
 # table2answer
 
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
 Table2answer: Read the database and answer without SQL 
 
 https://arxiv.org/abs/1902.04260
