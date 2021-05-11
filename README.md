@@ -6,6 +6,10 @@ Table2answer: Read the database and answer without SQL
 
 https://arxiv.org/abs/1902.04260
 
+# REASONABLE
+
+The reason why we think removing the logic form step is possible is that human can do the task without explicit logic form.
+
 # requirement
 
 python3 
